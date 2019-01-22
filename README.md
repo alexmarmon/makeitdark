@@ -1,3 +1,6 @@
+# More themes
+[here](https://github.com/danarnold/slack-night-mode)
+
 # Slack dark theme injector tool
 This tool writes a dark theme to the Slack desktop application.
 Dark theme was taken from the generated [Dark Reader](https://darkreader.org)
